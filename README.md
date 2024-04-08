@@ -1,4 +1,4 @@
-#Dacon-RF-hyperparameter-optimization  
+# Dacon-RF-hyperparameter-optimization  
 [Link](https://dacon.io/competitions/official/236229/overview/description)
   
 🎙수상을 진심으로 축하드립니다! 소감을 말해주세요.🎙  
@@ -21,9 +21,11 @@ Dacon, Kaggle 공장장이 되면 됩니다.
   
 🎙앞으로의 목표와 꿈을 말씀해 주세요.🎙    
 AI Researcher가 되고 싶습니다.  
-
-* Public Score  
+  
+* Public Score
+  
 ![스크린샷 2024-04-09 025659](https://github.com/devhyuk96/Dacon-RF-hyperparameter-optimization/assets/94885063/c678c8b3-3343-4103-8c39-dd026b37cee9)  
-
-* Private Score  
+  
+* Private Score
+  
 ![스크린샷 2024-04-09 025720](https://github.com/devhyuk96/Dacon-RF-hyperparameter-optimization/assets/94885063/cc8c5465-c1fa-41c4-89f3-eb3e5563a36b)  
